@@ -34,4 +34,12 @@
 
 ![DEE_HOTEL](DEE_HOTEL.png)
 
+# Project 5
+**Title:** [Data Cleaning Portfolio Nashville](https://github.com/Mayowa2/Data-Analytic-Project)
+
+**Project Summary:**  This project is a data cleaning project on a raw data. The substring, charindex, parsename, join was used to manipulate and clean the raw data into a much more meaningful data for analysis.
+**Overview:**
+
+![Nashville](Nashville.sql)
+
 
