@@ -41,6 +41,16 @@
 
 **Overview:**
 
+```sql
+SELECT A.ParcelID, A.PropertyAddress, B.ParcelID, B.PropertyAddress, ISNULL(A.PropertyAddress,B.PropertyAddress)
+FROM [dbo].[NashvilleHousing] A
+JOIN [dbo].[NashvilleHousing] B
+ON A.ParcelID = B.ParcelID
+WHERE A.[UniqueID ]!=B.[UniqueID ]
+AND A.PropertyAddress IS NULL
+```
+
+
 ![Nashville](Nashville.sql)
 
 
