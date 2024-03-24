@@ -25,3 +25,13 @@
 
 ![PIZZA](PIZZA.png)
 
+# Project 4
+**Title:** [Hotel Booking](https://github.com/Mayowa2/Data-Analytic-Project)
+
+**Project Summary:**  This report shows the insight gotten from the a prestigious hotel booking and its sales. It shows their total revenue and average sales of each hotels and in different demographics helping them to make decision on which hotel is doing fine.
+
+**Overview:**
+
+![DEE_HOTEL](DEE_HOTEL.png)
+
+
