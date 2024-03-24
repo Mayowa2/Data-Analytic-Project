@@ -50,7 +50,7 @@ WHERE A.[UniqueID ]!=B.[UniqueID ]
 AND A.PropertyAddress IS NULL
 ```
 
-
+**Sql Query:**
 ![Nashville](Nashville.sql)
 
 
