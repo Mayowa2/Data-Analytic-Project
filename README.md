@@ -16,7 +16,7 @@
 
 ![AVEECO](AVEECO.png)
 
-# Project 2
+# Project 3
 **Title:** [Pizza Sales Report](https://github.com/Mayowa2/Data-Analytic-Project)
 
 **Project Summary:**  This report shows the insight gotten from the pizza making company showing their best and worst selling pizza helping them to make decision on what to produce and the one to stop production in.
