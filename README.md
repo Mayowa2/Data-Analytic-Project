@@ -62,3 +62,13 @@ AND A.PropertyAddress IS NULL
 
 ![NIKE](NIKE.png)
 
+# Project 7
+**Title:** [APPLE INDUSTRIES](https://github.com/Mayowa2/Data-Analytic-Project)
+
+**Project Summary:**  The objective of this dashboard is to show the sales trends of Apple Industries product for the year 2022. It provides insights into total revenue, total products sold, the top product on the chart, and the top region where sales was made the highest. Additionally, it identifies the peak revenue month and the sales method used giving us insight the best sales method to use for future sales that will generating the most revenue.
+
+**Overview:**
+
+![APPLE](APPLE.png)
+
+
