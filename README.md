@@ -53,4 +53,12 @@ AND A.PropertyAddress IS NULL
 **Sql Query:**
 ![Nashville](Nashville.sql)
 
+# Project 6
+**Title:** [Nike Sales Trend](https://github.com/Mayowa2/Data-Analytic-Project)
+
+**Project Summary:**  The objective of this dashboard is to show the sales trends of Nike product for the year 2021. It provides insights into total revenue, total products sold, the top product on the chart, and the top region where sales was made the highest. Additionally, it identifies the peak revenue month and the state with the highest revenue, enabling the business to prioritize resources towards the product generating the most revenue.
+
+**Overview:**
+
+![NIKE](NIKE.png)
 
