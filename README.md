@@ -71,4 +71,13 @@ AND A.PropertyAddress IS NULL
 
 ![APPLE](APPLE.png)
 
+# Project 8
+**Title:** [MAVIN COFFEE](https://github.com/Mayowa2/Data-Analytic-Project)
+
+**Project Summary:**  The objective of this dashboard is to show the sales trends of Mavin Product Category and type  for the 1st quarter of 2023. It provides insights into total revenue, total quantities sold, the top product on the chart, and the region where sales was made the highest. Additionally, it identifies the peak revenue month giving us insight thehighest product that generate highest revenue.
+
+**Overview:**
+
+![Mavin](Mavin.png)
+
 
