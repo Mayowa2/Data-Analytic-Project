@@ -83,7 +83,7 @@ AND A.PropertyAddress IS NULL
 # Project 9
 **Title:** [CALL CENTRE DASHBOARD](https://github.com/Mayowa2/Data-Analytic-Project)
 
-**Project Summary:**  The objective of this dashboard is to show the sales trends of Mavin Product Category and type  for the 1st quarter of 2023. It provides insights into total revenue, total quantities sold, the top product on the chart, and the region where sales was made the highest. Additionally, it identifies the peak revenue month giving us insight thehighest product that generate highest revenue.
+**Project Summary:**  This dashboard shows the business needs of the Call Centre company. It illustrates the KPI's requirement of the business such as Total calls, Total calls duration and the percentage response time of each call made by each customers. It provides insights into total call by day, total call by State, total calls by Channel, Total call by sentiment, and the total call by each call centers showing each performance by each day. Also, it contains the grid page of each customer's information to be sent to each centres manager.
 
 **Overview:**
 
