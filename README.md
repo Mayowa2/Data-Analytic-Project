@@ -88,3 +88,13 @@ AND A.PropertyAddress IS NULL
 **Overview:**
 
 ![CALLCENTRE](CALLCENTRE.png)
+
+
+# Project 10
+**Title:** [LOGISTICS DASHBOARD](https://github.com/Mayowa2/Data-Analytic-Project)
+
+**Project Summary:**  This dashboard shows the business needs of a company. It illustrates the KPI's requirement of the business in its logistics such as Total orders, Total calls quantities and the total numbers of customers making orders. It also provides insights into the volume of different categories ordered, the type of shipping mode and its total volume of orders and the region in which the orders took place.
+
+**Overview:**
+
+![LOGISTICS DASHBOARD](LOGISTICS_DASHBOARD.png)
